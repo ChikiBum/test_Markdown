@@ -9,14 +9,14 @@
 
 ### *Mobile*: **(095)000-00-00**
 
-*[x] HTML
-*[x] CSS
-*[x] Java Script
-*[x] Git
-*[x] SASS
-*[x] SCSS
-*[x] Bootstrap
-*[x] jQuery
-*[x] AJAX
-*[] Pro English
+- [x] HTML
+- [x] CSS
+- [x] Java Script
+- [x] Git
+- [x] SASS
+- [x] SCSS
+- [x] Bootstrap
+- [x] jQuery
+- [x] AJAX
+- [] Pro English
 
