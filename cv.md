@@ -18,5 +18,5 @@
 - [x] Bootstrap
 - [x] jQuery
 - [x] AJAX
-- [] Pro English
+- [ ] Pro English
 
